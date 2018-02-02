@@ -1,2 +1,3 @@
 no	name	custmer
 1	choi	yang
+2	um	incheon
