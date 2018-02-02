@@ -1,1 +1,2 @@
 no	name	custmer
+1	choi	yang
